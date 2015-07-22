@@ -6,9 +6,9 @@ Vector Clock : Theory : Page 17  AOSProject1/foundations-nonanimated22.pdf : Imp
 Chandy Lamport Algorithm : Theory : Page 40 AOSProject1/foundations-nonanimated22.pdf  
 
 
-My Ppt : AOSProject1/AOS Project 1.pptx  (Will give complete idea about project)
+My Ppt : https://github.com/supermonk/AOSProject1/blob/master/AOS%20Project%201.pptx  (Will give complete idea about project)
 
-JavaDoc : AOSProject1/Java Doc - Server  and AOSProject1/Java Doc - Client
+JavaDoc :https://github.com/supermonk/AOSProject1/tree/master/Java%20Doc%20-%20Server  and https://github.com/supermonk/AOSProject1/tree/master/Java%20Doc%20-%20Client
 
 
 SourceCode : https://github.com/supermonk/AOSProject1/tree/master/Code%20Server%20and%20Client
