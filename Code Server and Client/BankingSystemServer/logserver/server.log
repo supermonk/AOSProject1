@@ -1,0 +1,27 @@
+0    [main] INFO  server.ServerRun  - sdfs
+2    [main] DEBUG server.ServerRun  - asdfas
+5    [main] DEBUG server.Server  - Current directory's absolute  path: /Users/narendrabidari/Desktop/version 10/BankingSystemServer/.
+5    [main] DEBUG server.Server  - file exists   true
+12   [main] DEBUG server.ConfigServerReader  - adsfas
+73176 [Thread-3] DEBUG server.Server  -  @ server6002 message is R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6001
+73177 [Thread-2] DEBUG server.Server  -  @ server6001 message is R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6002:CD34EF 1101.0 DE45FG 1151.25
+73177 [Thread-2] DEBUG server.Server  - {10.21.16.32:6002=java.io.DataOutputStream@45b9ce4b}
+73177 [Thread-2] DEBUG server.Server  - Error R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6002:CD34EF 1101.0 DE45FG 1151.25  ::Narendras-MacBook-Pro.local 6002   CD34EF 1101.0 DE45FG 1151.251
+0    [main] INFO  server.ServerRun  - sdfs
+1    [main] DEBUG server.ServerRun  - asdfas
+3    [main] DEBUG server.Server  - Current directory's absolute  path: /Users/narendrabidari/Desktop/version 10/BankingSystemServer/.
+3    [main] DEBUG server.Server  - file exists   true
+9    [main] DEBUG server.ConfigServerReader  - adsfas
+6360 [Thread-3] DEBUG server.Server  -  @ server6002 message is R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6001
+6361 [Thread-2] DEBUG server.Server  -  @ server6001 message is R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6002:CD34EF 1101.0 DE45FG 1151.25
+6361 [Thread-2] DEBUG server.Server  - {10.21.16.32:6002=java.io.DataOutputStream@45b9ce4b}
+6361 [Thread-2] DEBUG server.Server  - Error R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6002:CD34EF 1101.0 DE45FG 1151.25  ::Narendras-MacBook-Pro.local 6002   CD34EF 1101.0 DE45FG 1151.251
+0    [main] INFO  server.ServerRun  - sdfs
+1    [main] DEBUG server.ServerRun  - asdfas
+3    [main] DEBUG server.Server  - Current directory's absolute  path: /Users/narendrabidari/Desktop/version 10/BankingSystemServer/.
+3    [main] DEBUG server.Server  - file exists   true
+10   [main] DEBUG server.ConfigServerReader  - adsfas
+5577 [Thread-3] DEBUG server.Server  -  @ server6002 message is R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6001
+5578 [Thread-2] DEBUG server.Server  -  @ server6001 message is R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6002:CD34EF 1101.0 DE45FG 1151.25
+5578 [Thread-2] DEBUG server.Server  - {10.21.16.32:6002=java.io.DataOutputStream@68861f24}
+5578 [Thread-2] DEBUG server.Server  - Error R:Narendras-MacBook-Pro.local:Narendras-MacBook-Pro.local:6002:CD34EF 1101.0 DE45FG 1151.25  ::Narendras-MacBook-Pro.local 6002   CD34EF 1101.0 DE45FG 1151.251

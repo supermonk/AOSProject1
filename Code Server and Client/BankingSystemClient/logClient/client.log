@@ -1,0 +1,14 @@
+1    [main] INFO  client.Client  - asdfasdfas
+0    [main] INFO  client.Client  - asdfasdfas
+11604943 [Thread-3] WARN  client.Client  - Server closed ... Closing client
+0    [main] INFO  client.Client  - asdfasdfas
+59   [main] WARN  client.Client  - Wrong input arguments
+0    [main] INFO  client.Client  - asdfasdfas
+0    [main] INFO  client.Client  - asdfasdfas
+1    [main] WARN  client.Client  - Wrong number of arguments
+0    [main] INFO  client.Client  - asdfasdfas
+107371 [Thread-3] WARN  client.Client  - Server closed ... Closing client
+0    [main] INFO  client.Client  - asdfasdfas
+66796 [Thread-3] WARN  client.Client  - Server closed ... Closing client
+0    [main] INFO  client.Client  - asdfasdfas
+0    [main] WARN  client.Client  - Wrong number of arguments
