@@ -17,5 +17,6 @@ target/
  
 # OS Files #
 .DS_Store
+_DS_Store
  
 *.class
