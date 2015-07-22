@@ -19,5 +19,6 @@ Configuration File : https://github.com/supermonk/AOSProject1/blob/master/JarRun
 ScreenShot : https://github.com/supermonk/AOSProject1/blob/master/Closest%20Screen%20Shot%202012-06-29%20at%2011.39.41%20PM.png
 
 Project Grading Sytle : https://github.com/supermonk/AOSProject1/blob/master/JarRunnableServer/BankingConfigFile.config
+
 -Note : I have not modified anything from July/2012
-- ThreadPool is missing.
+-ThreadPool is missing.
